@@ -1,8 +1,5 @@
-Of course! Here's a **professional and detailed README** you can use for your **AI Safety Incident Dashboard** project:
-
----
-
 # 🛡️ AI Safety Incident Dashboard
+https://ai-safety-dashboard-psi.vercel.app/
 
 ## Introduction
 
